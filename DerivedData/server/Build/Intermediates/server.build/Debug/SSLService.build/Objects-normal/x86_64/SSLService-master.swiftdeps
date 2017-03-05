@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "be3202da96d36f89bfe753aa2b9262c1"
+build_time: [541967589, 442110000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/SSLService-0.12.22/Sources/SSLService.swift": [541966559, 0]

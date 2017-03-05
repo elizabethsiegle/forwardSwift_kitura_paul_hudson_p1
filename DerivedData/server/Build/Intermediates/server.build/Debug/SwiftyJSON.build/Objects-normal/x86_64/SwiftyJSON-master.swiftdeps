@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "f017340aa798cb8958231285a63aea24"
+build_time: [541967586, 424663000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/SwiftyJSON-15.0.5/Source/LclJSONSerialization.swift": [541966564, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/SwiftyJSON-15.0.5/Source/SwiftyJSON.swift": [541966564, 0]

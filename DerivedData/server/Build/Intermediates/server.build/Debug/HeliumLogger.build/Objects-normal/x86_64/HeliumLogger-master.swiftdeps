@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "2b3d217bbb4d10717a5155e8920e4397"
+build_time: [541967588, 24469000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumLogger.swift": [541966585, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumStreamLogger.swift": [541966585, 0]

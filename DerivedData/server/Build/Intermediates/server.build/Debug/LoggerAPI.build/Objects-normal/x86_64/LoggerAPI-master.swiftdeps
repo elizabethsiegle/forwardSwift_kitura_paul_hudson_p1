@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "be6e22737967e2e726711ea31c8d1585"
+build_time: [541967583, 172920000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/LoggerAPI-1.6.0/Sources/LoggerAPI/Logger.swift": [541966539, 0]

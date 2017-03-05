@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8f4a32e212fcf3c998c2fdc1ad22ee8f"
+build_time: [541976850, 514968000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Sources/main.swift": [541976813, 0]

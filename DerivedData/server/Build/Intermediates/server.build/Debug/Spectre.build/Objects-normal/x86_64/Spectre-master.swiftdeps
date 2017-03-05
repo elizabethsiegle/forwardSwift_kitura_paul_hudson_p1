@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8982a013a2cc13043a5232ff8624c0e2"
+build_time: [541967588, 469527000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Case.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Context.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Expectation.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Failure.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Global.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/GlobalContext.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Reporter.swift": [541966609, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Spectre-0.7.2/Sources/Reporters.swift": [541966609, 0]

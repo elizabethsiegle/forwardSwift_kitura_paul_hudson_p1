@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "b892de1ddb2e438967b1557c113e3479"
+build_time: [541967583, 321064000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/Socket-0.12.33/Sources/Socket.swift": [541966542, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Socket-0.12.33/Sources/SocketProtocols.swift": [541966542, 0]
+  "/Users/lizziesiegle/Desktop/server/Packages/Socket-0.12.33/Sources/SocketUtils.swift": [541966542, 0]

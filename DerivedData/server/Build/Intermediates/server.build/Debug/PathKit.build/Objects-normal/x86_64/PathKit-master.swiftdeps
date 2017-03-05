@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "1261707a759e9ccdc6e4aab3092696a1"
+build_time: [541967590, 1014000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/PathKit-0.7.1/Sources/PathKit.swift": [541966599, 0]

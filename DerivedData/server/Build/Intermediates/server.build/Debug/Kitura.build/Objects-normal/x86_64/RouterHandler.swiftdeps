@@ -1,0 +1,37 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RouterHandler"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "RouterHandler"
+- "RouterRequest"
+- !private "DummyRouterHAndlerClass"
+- "Void"
+- "RouterResponse"
+depends-member:
+- !private ["Ps9AnyObject", ""]
+depends-nominal:
+- !private "Ps9AnyObject"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/LoggerAPI.framework/Modules/LoggerAPI.swiftmodule/x86_64.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/KituraNet.framework/Modules/KituraNet.swiftmodule/x86_64.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/lizziesiegle/Desktop/server/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/utils.h"
+- "/Users/lizziesiegle/Desktop/server/Packages/CCurl-0.2.3/module.modulemap"
+- "/Users/lizziesiegle/Desktop/server/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/SSLService.framework/Modules/SSLService.swiftmodule/x86_64.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/Socket.framework/Modules/Socket.swiftmodule/x86_64.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/KituraTemplateEngine.framework/Modules/KituraTemplateEngine.swiftmodule/x86_64.swiftmodule"
+- "/Users/lizziesiegle/Desktop/server/DerivedData/server/Build/Products/Debug/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+interface-hash: "83ef246320ce03705053d71466d07d87"

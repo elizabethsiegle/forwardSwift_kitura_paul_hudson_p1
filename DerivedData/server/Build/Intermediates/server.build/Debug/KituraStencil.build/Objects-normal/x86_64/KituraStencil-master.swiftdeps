@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "41ded4cab4635e12bdec565aad6dd00e"
+build_time: [541967603, 269093000]
+inputs:
+  "/Users/lizziesiegle/Desktop/server/Packages/KituraStencil-1.6.0/Sources/KituraStencilTemplateEngine.swift": [541966590, 0]
